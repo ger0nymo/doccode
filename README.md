@@ -2,7 +2,7 @@
 
 ### Feladat: A31 - Dokumentáció generálása kódból LLM segítségével
 
-### Neptun: Géró Kristóf (i0sk1n)
+### Név, neptun: Géró Kristóf (i0sk1n)
 
 A projekt fő célja az volt, hogy egy olyan eszköz jöjjön létre, amely automatizálja a kód dokumentálását. Ehhez az OpenAI GPT-4o modellt használtam fel.
 
