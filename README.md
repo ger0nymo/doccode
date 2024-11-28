@@ -13,3 +13,5 @@ Sikerült létrehozni egy olyan, CLI-on keresztül hívható eszközt, amely egy
 A feladat megoldása a `doccode.py` fájlban található.
 
 A működő eszköz a következőképp néz ki:
+
+![](https://github.com/ger0nymo/doccode/blob/main/recording.gif)
